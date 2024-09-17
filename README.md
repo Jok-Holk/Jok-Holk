@@ -81,7 +81,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Jok-Holk/Jok-Holk/output/snake.svg" alt="Snake animation" />
-
-###
