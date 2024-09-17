@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [jokholk.dev](jokholk.dev)
+- 👨‍💻 You can view my portfolio at [jokholk.dev](jokholk.dev)
 
 - 📫 How to reach me **jokholk.dev@gmail.com**
 
