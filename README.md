@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Jok. <br>I am a student from Vietnam aspiring to become a professional software engineer with expertise in <br>front-end development, applications, and gaming, while also specializing in cybersecurity.</h2>
+<h2 align="left">Hi 👋, I'm Jok. <br>I am a student from Vietnam aspiring to become a professional software engineer with expertise in <br>specializes on cybersecurity while developing full-stack apps, games, and websites.</h2>
 
 ###
 
